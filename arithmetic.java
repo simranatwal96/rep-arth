@@ -1,11 +1,13 @@
 class arithmetic
 {
-  mul()
+   addmul()
   {
   int a=10;
   int b=12;
-  int c;
-  c=a*b;
-  System.out.println(c);
+  int c=7;
+  d=a+b*c;
+  
+ 
+  System.out.println(d);
   }
 }
